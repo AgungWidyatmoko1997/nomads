@@ -1,9 +1,3 @@
-<!-- Footer -->
-<footer class="sticky-footer bg-white">
-    <div class="container my-auto">
-        <div class="copyright text-center my-auto">
-            <span>Copyright &copy; NOMADS 2022</span>
-        </div>
-    </div>
-</footer>
-<!-- End of Footer -->
+<script src="{{ url('frontend/libraries/jquery/jquery-3.4.1.min.js') }}"></script>
+<script src="{{ url('frontend/libraries/bootstrap/js/bootstrap.js') }}"></script>
+<script src="{{ url('frontend/libraries/retina/retina.min.js') }}"></script>
